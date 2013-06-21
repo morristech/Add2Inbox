@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preference xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <EditTextPreference android:title="Email Address" android:key="email_address"/>
+        <EditTextPreference android:summary="Provides password for email log in. " android:title="E-Mail Password" android:key="email_pass"/>
+    </PreferenceScreen>
+    
+
+</Preference>

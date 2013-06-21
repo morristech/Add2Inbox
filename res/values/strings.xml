@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Add2Inbox
+</string>
+    <string name="main_actviity_textview_loggedin">Logged in as:</string>
+    <string name="main_activity_button_test_out">Share
+</string>
+    <string name="main_activity_textview_explain">Emails will be automatically sent to this email address. Try it now! 
+</string>
+    <string name="send_activity_toast_error_network">No network connection at the moment. Try again later.</string>
+    <string name="send_activity_toast_error_login">There has been a log in error. </string>
+    <string name="send_activity_toast_sending_one">Adding...</string>
+    <string name="send_activity_toast_sending_two">Added to Inbox!</string>
+    <string name="send_activity_toast_error_general">Error. Try again later. </string>
+    <string name="main_activity_button_share_subject">Welcome to Add2Inbox!</string>
+    <string name="main_activity_button_share_text">If you are seeing this, Add2Inbox has been configured successfully. </string>
+    <string name="main_activity_dialog_intentpicker">Add2Inbox</string>
+    <string name="send_activity_text_ad">\n\n\n\nSent using Add2Inbox.</string>
+</resources>

@@ -3,7 +3,7 @@
 _Works on Android 4.0+_
 
 
-Add2Inbox is a super simple way to redirect content from Intent.ACTION_SENDTO intents to user emails. Configuration is simple and straightforward, and only requires the user to accept the permission request from Android’s AccountManager.**
+Add2Inbox is a super simple way to redirect content from Intent.ACTION_SEND intents to user emails. Configuration is simple and straightforward, and only requires the user to accept the permission request from Android’s AccountManager.**
 
 
 #**Setup**
